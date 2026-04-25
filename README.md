@@ -160,14 +160,14 @@ Ao longo desse tempo, atuei bastante em ambiente corporativo, trabalhando em dif
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luiz-mattos14&hide=stars,prs,contribs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_rank=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Luiz-Mattos14&hide=stars,prs,contribs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_rank=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-mattos14&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Mattos14&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
