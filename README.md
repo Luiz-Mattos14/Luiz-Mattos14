@@ -169,5 +169,4 @@ Ao longo desse tempo, atuei bastante em ambiente corporativo, trabalhando em dif
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Mattos14&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
